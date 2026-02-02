@@ -71,32 +71,30 @@ plt.tight_layout()
 plt.show() 
 ```
 ### OUTPUT:
-<img width="1165" height="439" alt="image" src="https://github.com/user-attachments/assets/bcdd22c7-e0ff-49ef-8408-9d57fee91799" />
+<img width="1035" height="402" alt="image" src="https://github.com/user-attachments/assets/10a7b24b-f698-40f4-ae58-87b62842daa8" />
 
+<img width="1054" height="387" alt="image" src="https://github.com/user-attachments/assets/127bdae2-5f51-4d16-9aae-5071c9d70add" />
 
-<img width="858" height="492" alt="image" src="https://github.com/user-attachments/assets/53df6a5b-d981-4797-8c0b-b00d190df11a" />
-
-
-<img width="1040" height="621" alt="image" src="https://github.com/user-attachments/assets/6050b77f-d64b-428d-8cc5-592558515b3e" />
+<img width="753" height="429" alt="image" src="https://github.com/user-attachments/assets/fabaaf94-7786-4c8a-b383-4c681a3b45f3" />
 
 
 REGULAR DIFFERENCING:
 
-<img width="820" height="426" alt="image" src="https://github.com/user-attachments/assets/01443963-8b57-4ea2-8103-602f4e493860" />
+<img width="736" height="432" alt="image" src="https://github.com/user-attachments/assets/a6cd62a0-3eec-41c1-9d32-6a573f02ee60" />
 
 
 SEASONAL ADJUSTMENT:
 
-<img width="969" height="657" alt="image" src="https://github.com/user-attachments/assets/5a77aa70-a53e-4710-88be-bb40385a22ba" />
+<img width="1223" height="722" alt="image" src="https://github.com/user-attachments/assets/ede48b09-4610-491b-970d-0e5d72c60a46" />
 
 
 LOG TRANSFORMATION:
 
-<img width="1185" height="674" alt="image" src="https://github.com/user-attachments/assets/16cf2667-2369-46ab-90e7-eefa402e903e" />
+<img width="868" height="511" alt="image" src="https://github.com/user-attachments/assets/02f53581-fdd3-4b89-baec-1013aca9eafa" />
 
-<img width="938" height="652" alt="image" src="https://github.com/user-attachments/assets/9e3786f0-dea2-4ee6-9570-af0b76aea42e" />
+<img width="917" height="647" alt="image" src="https://github.com/user-attachments/assets/4c466bb7-3a19-4ccb-953c-acf932020455" />
 
-<img width="1281" height="685" alt="image" src="https://github.com/user-attachments/assets/3f5be178-9506-49f9-aad5-7b954426033a" />
+<img width="1182" height="670" alt="image" src="https://github.com/user-attachments/assets/28c57c9a-7621-4d68-9ae9-b90489494423" />
 
 
 ### RESULT:
