@@ -10,6 +10,7 @@ To perform regular differncing,seasonal adjustment and log transformatio on reta
 4. Plot the data according to need, before and after regular differncing,seasonal adjustment,log transformation.
 5. Display the overall results.
 ### PROGRAM:
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -68,7 +69,7 @@ plt.xlabel('Date')
 plt.ylabel('SDiff(RDiff(Log(Total Amount)))') 
 plt.tight_layout()
 plt.show() 
-
+```
 ### OUTPUT:
 <img width="1165" height="439" alt="image" src="https://github.com/user-attachments/assets/bcdd22c7-e0ff-49ef-8408-9d57fee91799" />
 
