@@ -73,15 +73,20 @@ plt.show()
 ### OUTPUT:
 <img width="1165" height="439" alt="image" src="https://github.com/user-attachments/assets/bcdd22c7-e0ff-49ef-8408-9d57fee91799" />
 
+
 <img width="858" height="492" alt="image" src="https://github.com/user-attachments/assets/53df6a5b-d981-4797-8c0b-b00d190df11a" />
+
 
 <img width="1040" height="621" alt="image" src="https://github.com/user-attachments/assets/6050b77f-d64b-428d-8cc5-592558515b3e" />
 
+
 REGULAR DIFFERENCING:
+
 <img width="820" height="426" alt="image" src="https://github.com/user-attachments/assets/01443963-8b57-4ea2-8103-602f4e493860" />
 
 
 SEASONAL ADJUSTMENT:
+
 <img width="969" height="657" alt="image" src="https://github.com/user-attachments/assets/5a77aa70-a53e-4710-88be-bb40385a22ba" />
 
 
