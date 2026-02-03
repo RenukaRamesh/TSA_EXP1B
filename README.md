@@ -1,8 +1,12 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 02.02.2026
-
+# Date: 03.02.2026
+# Name: Ramesh Renuka
+# Reg.no: 212223240136
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on retail sales data
+
+### SOFTWARE REQUIREMENT:
+Google Colab
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
